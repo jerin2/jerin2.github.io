@@ -1,0 +1,55 @@
+.bg {
+    /* The image used */
+    background-image: url("Air.jpeg");
+
+    /* Full height */
+    height: 100vh;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+font-family: 'Playfair Display', serif;
+    margin-top: 200px;
+
+
+}
+h3 {
+font-family: 'Playfair Display', serif;
+    margin-top: 20px;
+
+}
+.home {
+    /* Center h1 headline */
+    text-align: center;
+    Font-size: 40px;
+
+    /* Make h1 white */
+    color: White;
+
+    /* Make shadow */
+    text-shadow: 5px 5px 5px black;
+}
+
+p{
+    /* Center h3 headline */
+    text-align: center;
+    Color: white;
+    Font-size: 40px;
+}
+.essay {
+    padding: 15px;
+    width: 10%;
+    margin: auto;
+    background-color: lavender;
+    text-align: center;
+    border-width: 15px;
+
+}
+
+.container-fluid{
+    background-color: lavender;
+}
